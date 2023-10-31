@@ -145,7 +145,6 @@ def filter_instagram_names(filename):
 
 if __name__ == "__main__":
 
-
     username_to_find = input("Enter the Instagram username: ")
     #this code is ugly... ik if you want to make UI just remove calling one function from another and make it look cooler :D i won't do taht for now...
     fetch_user_data(username_to_find,"",12)
