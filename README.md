@@ -10,7 +10,7 @@ Instagram Assistant with ChatGPT is a helpful tool that harnesses the power of O
 ## Features
 Smart Responses: Leverage AI chatbot natural language capabilities to provide intelligent and context-aware responses to comments and direct messages on your Instagram account.
 
-Caption Generator: Generate catchy and relevant captions for your Instagram posts. Just input your photo, and let ChatGPT handle the rest.
+Caption Generator: Generate catchy and relevant captions for your Instagram posts. Just input your photo, and let Chatbot handle the rest.
 
 Hashtag Suggestions: Get suggestions for the best hashtags to use with your posts to maximize reach and engagement.
 
