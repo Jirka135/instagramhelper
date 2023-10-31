@@ -1,0 +1,42 @@
+{
+    "user_profile_info": {
+        "follower_count": 124688466,
+        "following_count": 91,
+        "users_bio": "Més Que Un Club 💙❤️\n👅👕THE ROLLING STONES:"
+    },
+    "user_posts": [
+        {
+            "post_url": "https://www.instagram.com/p/Cy8uD-Io-gZ/",
+            "post_likes": 391468,
+            "post_comments": 25921,
+            "post_caption": "Final",
+            "hashtags": [],
+            "mentions": [],
+            "date_of_release": "2023-10-28 16:12:06",
+            "location": null
+        },
+        {
+            "post_url": "https://www.instagram.com/p/Cy8s_F7I5zD/",
+            "post_likes": 173644,
+            "post_comments": 1343,
+            "post_caption": "Lamine Yamal es converteix en el debutant més jove de la història dels Clàssics 👏\n\nLamine Yamal has become the youngest player to ever appear in an #ElClásico \n\n#MadeInLaMasia",
+            "hashtags": [
+                "elclásico",
+                "madeinlamasia"
+            ],
+            "mentions": [],
+            "date_of_release": "2023-10-28 16:02:42",
+            "location": null
+        },
+        {
+            "post_url": "https://www.instagram.com/p/Cy8rTSPoh_Z/",
+            "post_likes": 239747,
+            "post_comments": 1084,
+            "post_caption": "Our wild card 🃏\n\nSom-hi, Lewy! 🤜🤛",
+            "hashtags": [],
+            "mentions": [],
+            "date_of_release": "2023-10-28 15:47:59",
+            "location": null
+        }
+    ]
+}

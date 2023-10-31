@@ -1,8 +1,8 @@
 {
     "user_profile_info": {
-        "follower_count": 225,
-        "following_count": 522,
-        "users_bio": "Czech republic🇨🇿\nDaewoo matiz ❤️\nMedonosy  \nBike cross🚴🏽‍♂️\n19y.o.\nSamsung galaxi S20 FE\n#metal\n-@ujepul\n—@dymytry_cz_official"
+        "follower_count": 226,
+        "following_count": 524,
+        "users_bio": "Czech republic🇨🇿\nDaewoo matiz ❤️\nMedonosy  \nBike cross🚴🏽‍♂️\n20y.o.\nSamsung galaxi S20 FE\n#metal\n-@ujepul\n—@dymytry_cz_official"
     },
     "user_posts": [
         {
@@ -13,7 +13,14 @@
             "hashtags": [],
             "mentions": [],
             "date_of_release": "2023-10-10 05:55:23",
-            "location": null
+            "location": [
+                352576408,
+                "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem - UJEP",
+                "univerzita-jana-evangelisty-purkyne-v-usti-nad-labem-ujep",
+                true,
+                null,
+                null
+            ]
         },
         {
             "post_url": "https://www.instagram.com/p/CwR-hyygoUE/",
@@ -23,7 +30,14 @@
             "hashtags": [],
             "mentions": [],
             "date_of_release": "2023-08-23 08:45:51",
-            "location": null
+            "location": [
+                248099183,
+                "Bibinje, Zagrebačka, Croatia",
+                "bibinje-zagrebacka-croatia",
+                true,
+                44.0667,
+                15.3
+            ]
         },
         {
             "post_url": "https://www.instagram.com/p/CuvITBKAclW/",
@@ -33,7 +47,14 @@
             "hashtags": [],
             "mentions": [],
             "date_of_release": "2023-07-15 23:29:46",
-            "location": null
+            "location": [
+                903442999,
+                "Masters of Rock",
+                "masters-of-rock",
+                true,
+                49.2173036885,
+                17.8410055603
+            ]
         },
         {
             "post_url": "https://www.instagram.com/p/Ct96D9Vg_5q/",
@@ -47,7 +68,14 @@
             ],
             "mentions": [],
             "date_of_release": "2023-06-26 20:39:14",
-            "location": null
+            "location": [
+                236167808,
+                "Melnik, Czech Republic",
+                "melnik-czech-republic",
+                true,
+                50.35,
+                14.4833
+            ]
         },
         {
             "post_url": "https://www.instagram.com/p/CsWOIJaIkYr/",
@@ -82,7 +110,14 @@
             "hashtags": [],
             "mentions": [],
             "date_of_release": "2023-02-22 18:08:16",
-            "location": null
+            "location": [
+                236167808,
+                "Melnik, Czech Republic",
+                "melnik-czech-republic",
+                true,
+                50.35,
+                14.4833
+            ]
         },
         {
             "post_url": "https://www.instagram.com/p/CfYpZxet_X1/",
@@ -94,7 +129,14 @@
                 "metallica"
             ],
             "date_of_release": "2022-06-29 10:02:15",
-            "location": null
+            "location": [
+                235610850,
+                "Letnany",
+                "letnany",
+                true,
+                50.1333,
+                14.5167
+            ]
         },
         {
             "post_url": "https://www.instagram.com/p/Cbhe7nvNwTD/",
@@ -106,7 +148,14 @@
                 "dymytry_cz_official"
             ],
             "date_of_release": "2022-03-25 10:18:20",
-            "location": null
+            "location": [
+                222295648,
+                "Kolín",
+                "kolin",
+                true,
+                50.02667,
+                15.20333
+            ]
         },
         {
             "post_url": "https://www.instagram.com/p/CWJomUIKlp3/",
@@ -143,7 +192,14 @@
             "hashtags": [],
             "mentions": [],
             "date_of_release": "2020-06-25 12:39:14",
-            "location": null
+            "location": [
+                236167808,
+                "Melnik, Czech Republic",
+                "melnik-czech-republic",
+                true,
+                50.35,
+                14.4833
+            ]
         },
         {
             "post_url": "https://www.instagram.com/p/CAkuMeVJfsH/",
@@ -155,7 +211,14 @@
             ],
             "mentions": [],
             "date_of_release": "2020-05-24 14:21:47",
-            "location": null
+            "location": [
+                267946219,
+                "Susice",
+                "susice",
+                true,
+                49.2333,
+                13.5167
+            ]
         },
         {
             "post_url": "https://www.instagram.com/p/B_kEQhOJrV_/",
@@ -168,7 +231,14 @@
             ],
             "mentions": [],
             "date_of_release": "2020-04-29 11:43:57",
-            "location": null
+            "location": [
+                250604610,
+                "Motol",
+                "motol",
+                true,
+                50.0737642557,
+                14.3424141459
+            ]
         }
     ]
 }
