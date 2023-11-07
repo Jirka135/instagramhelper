@@ -8,7 +8,9 @@ import time
 
 url_of_AI = f'http://localhost:5000/api/v1/generate'
 
-def fetch_user_data(username_to_find, output_filename,stop_at):
+def fetch_user_data(username_to_find:str, output_filename:str="",stop_at:int=12) -> str:
+    """Returns a helpful information for you instagram"""
+
     print(f"fetching data for user {username_to_find}")
     L = instaloader.Instaloader()
     L.load_session_from_file("aiarts69")
@@ -145,4 +147,4 @@ if __name__ == "__main__":
 
     username_to_find = input("Enter the Instagram username: ")
     #this code is ugly... ik if you want to make UI just remove calling one function from another and make it look cooler :D i won't do taht for now...
-    fetch_user_data(username_to_find,"",12)
+    fetch_user_data(username_to_find)
