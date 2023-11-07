@@ -57,8 +57,7 @@ def fetch_user_data(username_to_find, output_filename,stop_at):
     print(f"Data for user '{username_to_find}' has been saved to '{output_filename}'.")
 
 def prepare_and_get_ai_help(output_filename):
-    if output_filename == "":
-        json_file_path = "training_jsons/" + output_filename
+    json_file_path = output_filename
     with open(json_file_path, "r", encoding="utf-8") as file:
         data = json.load(file)
         formatted_data = re.sub(r'[{}"\[\],]', '', json.dumps(data, indent=4))
